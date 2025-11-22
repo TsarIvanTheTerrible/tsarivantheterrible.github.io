@@ -1,28 +1,25 @@
 
 # Hi there, I'm Vaishnavi Singh 👋
 
-<small>
-I am a final-year student at Singapore Management University (SMU), studying the intersection of Computer Science, Law, and Political Science.
+<small>I am a final-year student at Singapore Management University (SMU), studying the intersection of Computer Science, Law, and Political Science.
 
-I am currently working to bridge the gap between Technical AI Safety and AI Governance. I believe effective regulation requires a deep technical understanding of model failure modes, and effective technical safety requires robust international coordination frameworks.
-</small>
+I hope to work on both Technical AI Safety and AI Governance. I believe effective regulation requires a deep technical understanding of model failure modes, and effective technical safety requires robust international coordination frameworks.</small>
 
 ---
 
 ### 🧠 Research Interests
 
-<small>
-I am building my technical toolkit to understand benchmarks that go beyond simple task performance, specifically looking for evidence of instrumental convergence and latent capabilities.
-</small>
+<small> I am building my technical toolkit to understand benchmarks that go beyond simple task performance, specifically looking for evidence of instrumental convergence and latent capabilities. </small>
 <br>
+
 <details>
 <summary> Evals & Awareness</summary>
 <br>
 <small>
 <ul>
-<li>I am studying how to test for power-seeking behaviors where models attempt to acquire resources or prevent their own shutdown. The concept of shutdown avoidance is particularly compelling to me.</li>
-<li>I am reading about deceptively aligned models to understand how they might sandbag, covertly strategize, or display unique strategic thinking.</li>
-<li>I am hoping to learn how to evaluating models for "out-of-context" reasoning to detect situational awareness, which overlaps with my interest in the philosophical definitions of self-awareness.</li>
+  <li>I am studying how to test for power-seeking behaviors where models attempt to acquire resources or prevent their own shutdown. The concept of shutdown avoidance is particularly compelling to me.</li>
+  <li>I am reading about deceptively aligned models to understand how they might sandbag, covertly strategize, or display unique strategic thinking.</li>
+  <li>I am hoping to learn how to evaluating models for "out-of-context" reasoning to detect situational awareness, which overlaps with my interest in the philosophical definitions of self-awareness.</li>
 </ul>
 </small>
 </details>
@@ -72,8 +69,8 @@ I am investigating the criteria for acknowledging silicon-based "beings" and the
 <br>
 <small>
 <ul>
-<li>I am continuing work from a short paper to investigate the criteria for acknowledging silicon-based "beings."</li>
-<li>I am exploring if we need a theory of "co-alignment" rather than just alignment, and what that would entail technically when grounded in ethical theories.</li>
+  <li>I am continuing work from a short paper to investigate the criteria for acknowledging silicon-based "beings."</li>
+  <li>I am exploring if we need a theory of "co-alignment" rather than just alignment, and what that would entail technically when grounded in ethical theories.</li>
 </ul>
 </small>
 </details>
@@ -82,11 +79,13 @@ I am investigating the criteria for acknowledging silicon-based "beings" and the
 
 ### 🏆 Fellowships & Early Work
 
-<small> <ul>
-<li>As a Berkeley AI Safety Fellow, I am developing a practical theory of AI Moral Personhood leveraging current evals with Desiree Junfijiah and Stephanie Choi. Our short paper was accepted to the FAST Workshop at AAAI 2026 in Singapore, and we are targeting a long paper for mid-2026.</li>
-<li>I served as a Pathfinder Fellow for the NUS AI Alignment Initiatives, where I was a leading co-organiser running the AI Governance and Technical fellowship tracks.</li>
-<li>I am an alumna of the BlueDot Impact AGI Safety Fundamentals (Strategy) cohort.</li>
-</ul> </small>
+<small> 
+<ul> 
+  <li>As a Berkeley AI Safety Fellow, I am developing a practical theory of AI Moral Personhood leveraging current evals with Desiree Junfijiah and Stephanie Choi. Our short paper was accepted to the FAST Workshop at AAAI 2026 in Singapore, and we are targeting a long paper for mid-2026.</li>
+  <li>I served as a Pathfinder Fellow for the NUS AI Alignment Initiatives, where I was a leading co-organiser running the AI Governance and Technical fellowship tracks </li>
+  <li>I am an alumna of the BlueDot Impact AGI Safety Fundamentals (Strategy) cohort.</li> 
+</ul> 
+</small>
 
 ---
 
