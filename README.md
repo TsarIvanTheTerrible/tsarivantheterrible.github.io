@@ -4,24 +4,6 @@
 I am a final-year student at **Singapore Management University (SMU)**, studying the intersection of **Computer Science, Law, and Political Science**.
 
 ### 🔭 Mission
-My goal for the next decade is to bridge potential gaps between **Technical AI Safety** and **AI Governance**. I believe effective regulation requires a deep technical understanding of model failure modes, and effective technical safety requires robust yet palatable international frameworks. 
-
-# Hi there, I'm Vaishnavi Singh 👋
-
-### 🇸🇬 Context
-I am a final-year student at **Singapore Management University (SMU)**, sitting at the intersection of **Computer Science, Law, and Political Science**.
-
-### 🔭 Mission
-My goal for the next decade is to bridge the gap between **Technical AI Safety** and **AI Governance**. I believe effective regulation requires a deep technical understanding of model failure modes, and effective technical safety requires robust international coordination frameworks.
-
-### 🧠 Research Focus Areas
-
-# Hi there, I'm Vaishnavi Singh 👋
-
-### 🇸🇬 Context
-I am a final-year student at **Singapore Management University (SMU)**, sitting at the intersection of **Computer Science, Law, and Political Science**.
-
-### 🔭 Mission
 My goal for the next decade is to bridge the gap between **Technical AI Safety** and **AI Governance**. I believe effective regulation requires a deep technical understanding of model failure modes, and effective technical safety requires robust international coordination frameworks.
 
 ### 🧠 Research Focus Areas
@@ -46,9 +28,10 @@ Leveraging my legal and political science background, I am exploring:
 * **AI Personhood:** Investigating the criteria for acknowledging silicon-based "beings" and the legal/ethical frameworks required to support such a shift. Could we need to figure out a theory of co-alignment? What would this entail
 
 ### 📍 Achievemnts + Current Trajectory 
-- I have finished multiple fellowships and courses.
-- I am a Berkeley AI Safety Fellow, my project with Desiree Junfijiah and Stephanie Choi is on a practical theory of AI Moral Personhood. Our short paper has been accepted to FAST Workshop @ AAAI 2026 in Singapore, my home. We aim to publish a long paper early-mid 2026. 
-- I have run the NUS AI Alignment Initiatives' 2 Fellowships (AI Governance and Technical Tracks) as a Leading Co-organiser under the Pathfinder Fellowship. 
+* I have finished multiple fellowships and courses.
+* I am a Berkeley AI Safety Fellow, my project with Desiree Junfijiah and Stephanie Choi is on a practical theory of AI Moral Personhood.
+  * Our short paper has been accepted to FAST Workshop @ AAAI 2026 in Singapore, my home. We aim to publish a long paper early-mid 2026.
+* I have run the NUS AI Alignment Initiatives' 2 Fellowships (AI Governance and Technical Tracks) as a Leading Co-organiser under the Pathfinder Fellowship. 
 Most recently, I was a participant in the **BlueDot Impact AGI Safety Fundamentals (Strategy)** cohort.
 
 My immediate roadmap involves rigorous technical self-study to bridge the gap between strategy and engineering. I am actively self-learning/applying to ML bootcamps to improve my technical skills. My goal in 1-2 years time is to **apply for grants/RA positions** to conduct AI Control Evals + Experiments for testing control protocols on current frontier models based on future work outlined by METR, Epoch, LASRLabs, Redwood.
@@ -56,7 +39,13 @@ My immediate roadmap involves rigorous technical self-study to bridge the gap be
 ### 🛠️ Technical Stack
 * **Languages:** Python, SQL
 * **Safety Tools:** PyTorch, TransformerLens
-* **Governance:** Policy Analysis, Policy Design, International Law Frameworks, 
+* **Governance:** Policy Analysis, Policy Design, International Law Frameworks,
+
+### An unexamined life is not one worth living
+* I am an aspiring Acid/Industrial Techno DJ. SoundCloud link incoming? 
+* I bartend at a speakeasy where I break a lot of glasses (sadly).
+* I have a podcast focusing on religious philophy.
+* My goal in life is to learn as much as I can, and to one day be detached from material pursuits. 
 
 ---
 *Connect with me to discuss how we can secure a safe AI future.*
