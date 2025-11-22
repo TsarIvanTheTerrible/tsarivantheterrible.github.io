@@ -16,7 +16,7 @@ I am building my technical toolkit to understand benchmarks that go beyond simpl
 <br>
 
 <details>
-<summary> Evals </summary>
+<summary>🔻 Evals & Awareness</summary>
 <br>
 <small>
 <ul>
@@ -34,7 +34,7 @@ Heavily inspired by the work of researchers like Ryan Greenblatt and his posts o
 </small>
 <br>
 <details>
-<summary> Control Protocols </summary>
+<summary>🔻 Control Protocols</summary>
 <br>
 <small>
 <ul>
@@ -51,7 +51,7 @@ Leveraging my legal and political science background, I am exploring internation
 </small>
 <br>
 <details>
-<summary> Policy + Singapore Context</summary>
+<summary>🔻 Policy + Singapore Context</summary>
 <br>
 <small>
 <ul>
@@ -68,7 +68,7 @@ I am investigating the criteria for acknowledging silicon-based "beings" and the
 </small>
 <br>
 <details>
-<summary> Practical/Palatable AI Personhood & Co-alignment</summary>
+<summary>🔻 Practical/Palatable AI Personhood & Co-alignment</summary>
 <br>
 <small>
 <ul>
@@ -101,12 +101,10 @@ I am currently focused on the following goals for this semester:
   <li>I am finalizing my long paper on how evals can help us figure out personhood.</li>
   <li>I am actively scoping PhD opportunities in Safety and Governance.</li>
 </ul>
-</small>
-
-<small>
+<br>
 Looking at a 1-2 year horizon:
 <ul>
-  <li>I plan to apply for grants and research assistant positions to conduct AI Control evals on frontier models, referencing work by labs such as METR, Epoch, LASR Labs, and Redwood.</li>
+  <li>I plan to apply for grants and research assistant positions to conduct AI Control evals on frontier models, referencing work by labs such as METR, Epoch, and Redwood.</li>
   <li>I am conducting rigorous self-study and applying to ML bootcamps to bridge gaps in my technical knowledge, as I transition into full-time research.</li>
 </ul>
 </small>
@@ -126,6 +124,8 @@ I believe in living a life of curiosity and eventual detachment from material pu
 
 ---
 <div align="center">
+<small><i>Connect with me to discuss how we can secure a safe AI future.</i></small>
+</div>
 <small><i>Connect with me to discuss how we can secure a safe AI future.</i></small>
 </div>
 
