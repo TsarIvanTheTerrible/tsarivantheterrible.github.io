@@ -1,28 +1,28 @@
+
 # Hi there, I'm Vaishnavi Singh 👋
 
 <small>
-I am a final-year student at <b>Singapore Management University (SMU)</b>, studying the intersection of <b>Computer Science, Law, and Political Science</b>.
+I am a final-year student at Singapore Management University (SMU), studying the intersection of Computer Science, Law, and Political Science.
 
-My goal for the next decade is to bridge the gap between <b>Technical AI Safety</b> and <b>AI Governance</b>. I believe effective regulation requires a deep technical understanding of model failure modes, and effective technical safety requires robust international coordination frameworks.
+I am currently working to bridge the gap between Technical AI Safety and AI Governance. I believe effective regulation requires a deep technical understanding of model failure modes, and effective technical safety requires robust international coordination frameworks.
 </small>
 
 ---
 
-### 🧠 Research Focus Areas
+### 🧠 Research Interests
 
 <small>
-<b>1. Technical Alignment: Evaluations & Scheming</b><br>
-I focus on benchmarks that go beyond simple task performance, detecting evidence of <b>Instrumental Convergence</b> and latent capabilities.
+I am building my technical toolkit to understand benchmarks that go beyond simple task performance, specifically looking for evidence of instrumental convergence and latent capabilities.
 </small>
 <br>
 <details>
-<summary><b> Evals & Awareness</b></summary>
+<summary> Evals & Awareness</summary>
 <br>
 <small>
 <ul>
-<li><b>Power-Seeking & Shutdown Avoidance:</b> Testing for behaviors where models attempt to acquire resources or prevent their own shutdown. <i>(Shutdown avoidance is a particularly curious and terrifying concept to me).</i></li>
-<li><b>Scheming & Deception:</b> Studying deceptively aligned models that sandbag, covertly strategize, and display unique strategic thinking.</li>
-<li><b>Situational Awareness:</b> Evaluating models for "out-of-context" reasoning. This overlaps with my interest in personhood and the idea of "self-awareness."</li>
+<li>I am studying how to test for power-seeking behaviors where models attempt to acquire resources or prevent their own shutdown. The concept of shutdown avoidance is particularly compelling to me.</li>
+<li>I am reading about deceptively aligned models to understand how they might sandbag, covertly strategize, or display unique strategic thinking.</li>
+<li>I am hoping to learn how to evaluating models for "out-of-context" reasoning to detect situational awareness, which overlaps with my interest in the philosophical definitions of self-awareness.</li>
 </ul>
 </small>
 </details>
@@ -30,17 +30,16 @@ I focus on benchmarks that go beyond simple task performance, detecting evidence
 <br>
 
 <small>
-<b>2. AI Control & Robustness</b><br>
-Heavily inspired by the work of <b>Ryan Greenblatt (Redwood Research)</b>, I am interested in methods to safely monitor and elicit work from untrusted models.
+Heavily inspired by the work of researchers like Ryan Greenblatt and his posts on LW, I am interested in learning methods to safely monitor and elicit work from untrusted models.
 </small>
 <br>
 <details>
-<summary><b> Control Protocols</b></summary>
+<summary> Control Protocols</summary>
 <br>
 <small>
 <ul>
-<li><b>Protocol Design:</b> I want to looka t debate and cross-examination protocols for untrusted advanced systems.</li>
-<li><b>Scalable Oversight:</b> I want to investigate how we can reliably supervise models that are smarter than us.</li>
+<li>I aim to research protocol designs such as debate and cross-examination suited for untrusted advanced systems.</li>
+<li>I want to investigate how we can reliably supervise models that are smarter than us through scalable oversight mechanisms.</li>
 </ul>
 </small>
 </details>
@@ -48,17 +47,16 @@ Heavily inspired by the work of <b>Ryan Greenblatt (Redwood Research)</b>, I am 
 <br>
 
 <small>
-<b>3. AI Governance & Strategy</b><br>
-Leveraging my legal and political science background, I focus on international coordination and compute governance.
+Leveraging my legal and political science background, I am exploring international coordination and compute governance.
 </small>
 <br>
 <details>
-<summary><b> Policy & Singapore Context</b></summary>
+<summary>Policy + Singapore Context</summary>
 <br>
 <small>
 <ul>
-<li><b>International Red-Lines:</b> Pushing US and China towards shared safety agreements to prevent mutually assured destruction.</li>
-<li><b>Compute Governance:</b> Navigating data center security and sustainable energy usage, specifically from the perspective of <b>Singapore's unique neutral status</b>.</li>
+<li>I am analyzing mechanisms to push the US and China towards shared safety agreements to prevent mutually assured destruction.</li>
+<li>I am researching data center security and sustainable energy usage, specifically analyzing how this fits into Singapore's unique neutral status.</li>
 </ul>
 </small>
 </details>
@@ -66,63 +64,61 @@ Leveraging my legal and political science background, I focus on international c
 <br>
 
 <small>
-<b>4. Philosophy of Mind</b><br>
-Investigating the criteria for acknowledging silicon-based "beings" and the legal frameworks required.
+I am investigating the criteria for acknowledging silicon-based "beings" and the legal frameworks that would be required.
 </small>
 <br>
 <details>
-<summary><b> Personhood & Co-alignment</b></summary>
+<summary>Practical = Palatable AI Personhood & Co-alignment </summary>
 <br>
 <small>
 <ul>
-<li><b>AI Personhood:</b> Continuing short paper's work on investigating the criteria for acknowledging silicon-based "beings."</li>
-<li><b>Co-alignment:</b> Exploring if we need a theory of "co-alignment" rather than just alignment, and what that would entail technically, grounded in ethical theories </li>
+<li>I am continuing work from a short paper to investigate the criteria for acknowledging silicon-based "beings."</li>
+<li>I am exploring if we need a theory of "co-alignment" rather than just alignment, and what that would entail technically when grounded in ethical theories.</li>
 </ul>
 </small>
 </details>
 
 ---
 
-### 🏆 Achievements & Fellowships
+### 🏆 Fellowships & Early Work
 
 <small> <ul>
-<li><b>Berkeley AI Safety Fellow:</b> Developing a practical theory of AI Moral Personhood leveraging current evals with Desiree Junfijiah and Stephanie Choi.
-<br>↳ <i>Short paper accepted to <b>FAST Workshop @ AAAI 2026</b> (Singapore). Targeting a long paper for mid-2026.</i></li>
-<li><b>Pathfinder Fellow (NUS AI Alignment Initiatives):</b> Leading Co-organiser running 2 Fellowships (AI Governance and Technical Tracks).</li>
-<li><b>BlueDot Impact:</b> Alumna of the AGI Safety Fundamentals (Strategy) cohort.</li>
+<li>As a Berkeley AI Safety Fellow, I am developing a practical theory of AI Moral Personhood leveraging current evals with Desiree Junfijiah and Stephanie Choi. Our short paper was accepted to the FAST Workshop at AAAI 2026 in Singapore, and we are targeting a long paper for mid-2026.</li>
+<li>I served as a Pathfinder Fellow for the NUS AI Alignment Initiatives, where I was a leading co-organiser running the AI Governance and Technical fellowship tracks.</li>
+<li>I am an alumna of the BlueDot Impact AGI Safety Fundamentals (Strategy) cohort.</li>
 </ul> </small>
 
 ---
 
-### 📍 Roadmap & Current Trajectory
+### 📍 Roadmap
 
 <small>
-<b>Current Semester Goals:</b>
+I am currently focused on the following goals for this semester:
 <ul>
-<li>🚀 <b>Final Year Project:</b> Collaborating with <b>Confide Platform</b> to create live AI Governance tooling for large corporations.</li>
-<li>📝 <b>Publication:</b> Finalizing the long paper on how evals can help us figure out personhood.</li>
-<li>🎓 <b>PhD Strategy:</b> actively scoping PhD opportunities in Safety/Governance.</li>
+<li>I am collaborating with Confide Platform on my final year project to create live AI Governance tooling for large corporations.</li>
+<li>I am finalizing my long paper on how evals can help us figure out personhood.</li>
+<li>I am actively scoping PhD opportunities in Safety and Governance.</li>
 </ul>
 </small>
 
-<small> 
-<b>1-2 Year Horizon:</b>
+<small> 
+Looking at a 1-2 year horizon:
 <ul>
-<li><b>Research & Grants:</b> Applying for grants/RA positions to conduct <b>AI Control Evals</b> on frontier models (referencing work by METR, Epoch, LASR Labs, Redwood).</li>
-<li><b>Technical Rigor:</b> Conducting rigorous self-study and applying to ML bootcamps to bridge gaps in my knowledge (you can only walk the path alone so far!).</li>
+<li>I plan to apply for grants and research assistant positions to conduct AI Control evals on frontier models, referencing work by labs such as METR, Epoch, LASR Labs, and Redwood.</li>
+<li>I am conducting rigorous self-study and applying to ML bootcamps to bridge gaps in my technical knowledge, as I transition into full-time research.</li>
 </ul>
 </small>
 
 ---
 
-### 💭 "The Unexamined Life..."
+### 💭 "The Unexamined Life" is a huge fear of mine
 
 <small>
-<i>I believe in living a life of curiosity and eventual detachment from material pursuits.</i>
+I believe in living a life of curiosity and eventual detachment from material pursuits.
 <ul>
-<li>🎧 <b>DJing:</b> Aspiring Acid/Industrial Techno DJ. (SoundCloud link incoming).</li>
-<li>🍸 <b>Bartending:</b> I bartend at a speakeasy (and arguably break too many glasses).</li>
-<li>🎙️ <b>Podcasting:</b> I host a podcast focusing on religious philosophy.</li>
+<li>I am an aspiring Acid/Industrial Techno DJ (SoundCloud link incoming).</li>
+<li>I bartend at a speakeasy and arguably break too many glasses.</li>
+<li>I host a podcast focusing on religious philosophy.</li>
 </ul>
 </small>
 
@@ -130,5 +126,6 @@ Investigating the criteria for acknowledging silicon-based "beings" and the lega
 <div align="center">
 <small><i>Connect with me to discuss how we can secure a safe AI future.</i></small>
 </div>
+
 
 
