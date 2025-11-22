@@ -29,18 +29,27 @@ Leveraging my legal and political science background, I am exploring:
 
 ### 📍 Achievemnts + Current Trajectory 
 * I have finished multiple fellowships and courses.
-* I am a Berkeley AI Safety Fellow, my project with Desiree Junfijiah and Stephanie Choi is on a practical theory of AI Moral Personhood.
+* I am a Berkeley AI Safety Fellow, my project with Desiree Junfijiah and Stephanie Choi is on a practical theory of AI Moral Personhood that can leverage current evals.
   * Our short paper has been accepted to FAST Workshop @ AAAI 2026 in Singapore, my home. We aim to publish a long paper early-mid 2026.
 * I have run the NUS AI Alignment Initiatives' 2 Fellowships (AI Governance and Technical Tracks) as a Leading Co-organiser under the Pathfinder Fellowship. 
 Most recently, I was a participant in the **BlueDot Impact AGI Safety Fundamentals (Strategy)** cohort.
 
-My immediate roadmap involves rigorous technical self-study to bridge the gap between strategy and engineering. I am actively self-learning/applying to ML bootcamps to improve my technical skills. My goal in 1-2 years time is to **apply for grants/RA positions** to conduct AI Control Evals + Experiments for testing control protocols on current frontier models based on future work outlined by METR, Epoch, LASRLabs, Redwood.
+* My immediate roadmap involves rigorous technical self-study to bridge the gap between strategy and engineering. I am actively self-learning/applying to ML bootcamps to improve my technical skills. 
+
+* My goal this semester is to 
+  * publish my long paper on how evals can help us figure out personhood
+  * complete my final year project in collaboration with Confide Platform to create live AI Governance tooling for large corporations
+  * think about my PhD.
+
+* My goal for the next 1-2 years is to
+  *  apply for grants/RA positions** to conduct AI Control Evals + Experiments for testing control protocols on current frontier models based on future work outlined by METR, Epoch, LASRLabs, Redwood.
+  *  graduate studies or a high-impact research delivery role
 
 ### 🛠️ Technical Stack
 * **Languages:** Python, SQL
 * **Safety Tools:** PyTorch, TransformerLens
-* **Governance:** Policy Analysis, Policy Design, International Law Frameworks,
-
+* **Governance:** Policy Analysis, Policy Design, Privacy Law, Corporate Law, Torts, Contracts and so on. 
+  
 ### An unexamined life is not one worth living
 * I am an aspiring Acid/Industrial Techno DJ. SoundCloud link incoming? 
 * I bartend at a speakeasy where I break a lot of glasses (sadly).
