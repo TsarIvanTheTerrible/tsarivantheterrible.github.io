@@ -22,7 +22,7 @@
   <li>I am reading about deceptively aligned models to understand how they might sandbag, covertly strategize, or display unique strategic thinking.</li>
   <li>I am hoping to learn how to evaluating models for "out-of-context" reasoning to detect situational awareness, which overlaps with my interest in the philosophical definitions of self-awareness.</li>
 </ul>
-</small>
+
 </details>
 
 <br>
@@ -39,7 +39,7 @@ Heavily inspired by the work of researchers like Ryan Greenblatt and his posts o
 <li>I aim to research protocol designs such as debate and cross-examination suited for untrusted advanced systems.</li>
 <li>I want to investigate how we can reliably supervise models that are smarter than us through scalable oversight mechanisms.</li>
 </ul>
-</small>
+
 </details>
 
 <br>
@@ -86,7 +86,7 @@ I am investigating the criteria for acknowledging silicon-based "beings" and the
     <li>I served as a Pathfinder Fellow for the NUS AI Alignment Initiatives, where I was a leading co-organiser running the AI Governance and Technical fellowship tracks </li>
     <li>I am an alumna of the BlueDot Impact AGI Safety Fundamentals (Strategy) cohort.</li> 
   </ul> 
-</small>
+
 
 ---
 
@@ -99,7 +99,7 @@ I am currently focused on the following goals for this semester:
     <li>I am finalizing my long paper on how evals can help us figure out personhood.</li>
     <li>I am actively scoping PhD opportunities in Safety and Governance </li>
   </ul>
-</small>
+
 
 <small> 
 Looking at a 1-2 year horizon:
@@ -107,19 +107,15 @@ Looking at a 1-2 year horizon:
     <li>I plan to apply for grants and research assistant positions to conduct AI Control evals on frontier models, referencing work by labs such as METR, Epoch, LASR Labs, and Redwood.</li>
     <li>I am conducting rigorous self-study and applying to ML bootcamps to bridge gaps in my technical knowledge, as I transition into full-time research.</li>
   </ul>
-</small>
+
 
 ---
 
 ### 💭 "The Unexamined Life" is a huge fear of mine
 
-<small> I believe in living a life of curiosity and eventual detachment from material pursuits.
-  <ul>
-    <li>I am an aspiring Acid/Industrial Techno DJ (SoundCloud link incoming).</li>
-    <li>I bartend at a speakeasy and arguably break too many glasses.</li>
-    <li>I host a podcast focusing on religious philosophy.</li>
-  </ul>
-</small>
+<small> I believe in living a life of curiosity and eventual detachment from material pursuits. 
+<ul> <li>I am an aspiring Acid/Industrial Techno DJ (SoundCloud link incoming).</li> <li>I bartend at a speakeasy and arguably break too many glasses.</li> <li>I host a podcast focusing on religious philosophy.</li> </ul>
+
 
 ---
 <div align="center">
