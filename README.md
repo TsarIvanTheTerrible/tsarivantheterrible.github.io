@@ -16,7 +16,7 @@ I focus on benchmarks that go beyond simple task performance, detecting evidence
 </small>
 <br>
 <details>
-<summary><b>🔻 Click to expand: Evals & Awareness</b></summary>
+<summary><b> Evals & Awareness</b></summary>
 <br>
 <small>
 <ul>
@@ -35,7 +35,7 @@ Heavily inspired by the work of <b>Ryan Greenblatt (Redwood Research)</b>, I am 
 </small>
 <br>
 <details>
-<summary><b>🔻 Click to expand: Control Protocols</b></summary>
+<summary><b> Control Protocols</b></summary>
 <br>
 <small>
 <ul>
@@ -53,7 +53,7 @@ Leveraging my legal and political science background, I focus on international c
 </small>
 <br>
 <details>
-<summary><b>🔻 Click to expand: Policy & Singapore Context</b></summary>
+<summary><b> Policy & Singapore Context</b></summary>
 <br>
 <small>
 <ul>
@@ -71,7 +71,7 @@ Investigating the criteria for acknowledging silicon-based "beings" and the lega
 </small>
 <br>
 <details>
-<summary><b>🔻 Click to expand: Personhood & Co-alignment</b></summary>
+<summary><b> Personhood & Co-alignment</b></summary>
 <br>
 <small>
 <ul>
@@ -85,14 +85,12 @@ Investigating the criteria for acknowledging silicon-based "beings" and the lega
 
 ### 🏆 Achievements & Fellowships
 
-<small>
-<ul>
+<small> <ul>
 <li><b>Berkeley AI Safety Fellow:</b> Developing a practical theory of AI Moral Personhood leveraging current evals with Desiree Junfijiah and Stephanie Choi.
 <br>↳ <i>Short paper accepted to <b>FAST Workshop @ AAAI 2026</b> (Singapore). Targeting a long paper for mid-2026.</i></li>
 <li><b>Pathfinder Fellow (NUS AI Alignment Initiatives):</b> Leading Co-organiser running 2 Fellowships (AI Governance and Technical Tracks).</li>
 <li><b>BlueDot Impact:</b> Alumna of the AGI Safety Fundamentals (Strategy) cohort.</li>
-</ul>
-</small>
+</ul> </small>
 
 ---
 
@@ -105,34 +103,15 @@ Investigating the criteria for acknowledging silicon-based "beings" and the lega
 <li>📝 <b>Publication:</b> Finalizing the long paper on how evals can help us figure out personhood.</li>
 <li>🎓 <b>PhD Strategy:</b> actively scoping PhD opportunities in Safety/Governance.</li>
 </ul>
+</small>
 
+<small> 
 <b>1-2 Year Horizon:</b>
 <ul>
 <li><b>Research & Grants:</b> Applying for grants/RA positions to conduct <b>AI Control Evals</b> on frontier models (referencing work by METR, Epoch, LASR Labs, Redwood).</li>
 <li><b>Technical Rigor:</b> Conducting rigorous self-study and applying to ML bootcamps to bridge gaps in my knowledge (you can only walk the path alone so far!).</li>
 </ul>
 </small>
-
-<details>
-<summary><b>🔻 View Technical & Legal Stack</b></summary>
-<br>
-<small>
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python, SQL</td>
-  </tr>
-  <tr>
-    <td><b>Safety Tools</b></td>
-    <td>PyTorch, TransformerLens, Concept Extrapolation</td>
-  </tr>
-  <tr>
-    <td><b>Legal Domains</b></td>
-    <td>Policy Analysis, Privacy Law, Corporate Law, Torts, Contracts</td>
-  </tr>
-</table>
-</small>
-</details>
 
 ---
 
